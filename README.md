@@ -6,6 +6,7 @@
   * [Tecnologias utilizadas](#Tecnologias)
   * [Arquitetura](#Arquitetura)
   * [Google Sheets](#Google-Sheets)
+  * [Teste 2](#Teste-2)
   * GCP(Ambiente de produção)
     * [Jupyter Notebook](#Jupyter-Notebook)
     * [Cloud Storage](#Cloud-Storage)
@@ -28,7 +29,7 @@ As seguintes ferramentas foram usadas na resolução dos questionamentos:
 ![image](https://user-images.githubusercontent.com/73916591/229174086-f51dd495-410f-48b0-b696-4f8db3353f77.png)
 
 # Google Sheets
-crei uma tabela com as metas e o valor investido para utilizar como base de dados no meu dashboard
+criei uma tabela com as metas e o valor investido para utilizar como base de dados no meu dashboard
 
 ![image](https://user-images.githubusercontent.com/73916591/229195358-7fa8e852-be6e-4135-836b-413af9f1fa7f.png)
 
