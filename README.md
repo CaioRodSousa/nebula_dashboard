@@ -214,7 +214,7 @@ print("Processo finalizado em: "+start)
 
 ![image](https://user-images.githubusercontent.com/73916591/229196303-86ec7e0a-11d3-40e8-8280-5675d7cbbdde.png)
 
-Nota-se que utilizo a planiliha criada no google sheets e os dataframes importados para o bigquery como base de dados
+Nota-se que utilizo a planiliha criada no google sheets e os dataframes importados para o bigquery anteriormente como base de dados
 
 ![image](https://user-images.githubusercontent.com/73916591/229196570-181bd145-b8ec-4b06-a6c1-92d3fa9ed90a.png)
 
