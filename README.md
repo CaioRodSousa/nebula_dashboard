@@ -219,18 +219,3 @@ Nota-se que utilizo a planiliha criada no google sheets e os dataframes importad
 ![image](https://user-images.githubusercontent.com/73916591/229196570-181bd145-b8ec-4b06-a6c1-92d3fa9ed90a.png)
 
 https://lookerstudio.google.com/reporting/0980d664-09c8-40e7-a5cc-1854c4a3ec00
-
-# Teste 2
-
-● Gargalo 1: tx% conversão MQL está baixa 
-
-○ Solução 1: Refine a qualificação de leads: Certifique-se de que seus critérios de qualificação de leads são claros e precisos, a fim de garantir que você esteja  lidando com leads qualificados desde o início do processo. Isso pode ajudar a melhorar a taxa de conversão de MQL para SQL.
-
-○ Solução 2: Invista em automação de marketing: Use ferramentas de automação de marketing para segmentar seus leads, personalizar as mensagens e acompanhar o comportamento de seus leads em seu site e em suas campanhas de marketing. Isso pode ajudá-lo a se comunicar com seus leads de forma mais eficaz e em tempo real.
-   
-   
-● Gargalo 2: tx% conversão OPP está baixa
-
-○ Solução 1: Automatize tarefas rotineiras: Automatize tarefas como envio de e-mails de acompanhamento e agendamento de reuniões para garantir que seus leads sejam atendidos de forma rápida e consistente, o que pode ajudar a melhorar a taxa de conversão de OPP para WON.
-
-○ Solução 2: Invista em treinamento: Garanta que seus vendedores estejam bem treinados e equipados com as habilidades e o conhecimento necessários para se comunicar de forma eficaz com seus leads e vender soluções de forma eficaz.
