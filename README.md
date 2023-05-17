@@ -212,10 +212,10 @@ print("Processo finalizado em: "+start)
 
 # Dashboard
 
-![image](https://user-images.githubusercontent.com/73916591/229196303-86ec7e0a-11d3-40e8-8280-5675d7cbbdde.png)
+![image](https://github.com/CaioRodSousa/nebula_dashboard/assets/73916591/106ecffb-8de3-4807-8314-c5a34f0d37f2)
 
 Nota-se que utilizo a planiliha criada no google sheets e os dataframes importados para o bigquery anteriormente como base de dados
 
-![image](https://user-images.githubusercontent.com/73916591/229196570-181bd145-b8ec-4b06-a6c1-92d3fa9ed90a.png)
+![image](https://github.com/CaioRodSousa/nebula_dashboard/assets/73916591/defd14ac-9a91-4a9e-b555-4cc8877c76eb)
 
 https://lookerstudio.google.com/reporting/0980d664-09c8-40e7-a5cc-1854c4a3ec00
