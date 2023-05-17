@@ -1,12 +1,11 @@
-# teste-seazone
-## Desafio criar pipeline
+# Nebula Dashboard
+## Desafio criar dashboard
 ### Tabela de conteúdos
 =================
 <!--ts-->
   * [Tecnologias utilizadas](#Tecnologias)
   * [Arquitetura](#Arquitetura)
   * [Google Sheets](#Google-Sheets)
-  * [Teste 2](#Teste-2)
   * GCP(Ambiente de produção)
     * [Jupyter Notebook](#Jupyter-Notebook)
     * [Cloud Storage](#Cloud-Storage)
